@@ -1,3 +1,10 @@
+# My Cody McCarty
+Find the site here:
+* AWS https://master.d230yeauuv20ve.amplifyapp.com/
+* Heroku https://my-cody-mccarty.herokuapp.com/  
+
+Two link incase one is broken and I haven't fixed it yet.  I have continuous integration set up with two links incase someone stops trusting OAuth tokens bc that happened
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

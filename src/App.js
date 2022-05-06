@@ -23,3 +23,10 @@ function App() {
 }
 
 export default App;
+
+/* TODO: list:
+[x]deploy to AWS
+[x]Deploy to Heroku
+[x]update readme with site names
+[]research style/layout 
+*/
